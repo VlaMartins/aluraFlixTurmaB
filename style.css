@@ -11,6 +11,7 @@ section{
     justify-content: center; /*centraliza*/
 }
 
-div{
+.chamada-texto{
     margin-right: 200px ;
 }
+
