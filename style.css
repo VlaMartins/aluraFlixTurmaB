@@ -3,3 +3,8 @@ body{
     color: #7fce7f;
 }
 
+section{
+    background: darkolivegreen ;
+    padding-top: 80px ;
+    padding-bottom: 80px;
+}
