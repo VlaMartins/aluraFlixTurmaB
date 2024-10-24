@@ -7,4 +7,5 @@ section{
     background: darkolivegreen ;
     padding-top: 60px ;
     padding-bottom: 60px;
+    display: flex;
 }
