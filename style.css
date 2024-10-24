@@ -8,5 +8,6 @@ section{
     padding-top: 60px ;
     padding-bottom: 60px;
     display: flex; /* torna flexivel = poe um do lado do outro */
-    justify-content: center;
+    justify-content: center; /*centraliza*/
 }
+
