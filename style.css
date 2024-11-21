@@ -1,11 +1,11 @@
 body{
     background-color: rgb(2, 0, 0);
     color: #7fce7f;
-
+    font-family: "Henny Penny", system-ui;
 }
 
 header{
-    font-family: "Henny Penny", system-ui;
+    font-family: ;
 }
 .chamada{
     background: darkolivegreen ;
