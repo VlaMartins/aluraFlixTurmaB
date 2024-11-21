@@ -4,11 +4,13 @@ body{
 }
 
 section{
-    background: rgb(75, 172, 197) ;
+    background: darkolivegreen ;
     padding-top: 60px ;
     padding-bottom: 60px;
     display: flex; /* torna flexivel = poe um do lado do outro */
     justify-content: center; /*centraliza*/
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 .chamada-texto{
