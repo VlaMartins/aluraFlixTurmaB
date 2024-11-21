@@ -20,9 +20,9 @@ img{
 }
 
 .categoria{
-    padding-left: 100px;
-    padding-right: 100px;
-    background-color: yellow;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgb(18, 184, 93);
 }
 
 .categoria-videos{
