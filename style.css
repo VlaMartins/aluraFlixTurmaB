@@ -3,14 +3,12 @@ body{
     color: #7fce7f;
 }
 
-section{
+.chamada{
     background: darkolivegreen ;
     padding-top: 60px ;
     padding-bottom: 60px;
     display: flex; /* torna flexivel = poe um do lado do outro */
     justify-content: center; /*centraliza*/
-    padding-left: 50px;
-    padding-right: 50px;
 }
 
 .chamada-texto{
