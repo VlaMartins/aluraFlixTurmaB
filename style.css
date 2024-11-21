@@ -5,7 +5,9 @@ body{
 }
 
 header{
-    font-family: ;
+    font-family: Helvetica ;
+    font-size: 35px;
+    color: beige;
 }
 
 h1{
